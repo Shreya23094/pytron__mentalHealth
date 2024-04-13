@@ -1,2 +1,2 @@
 # pytron__mentalHealth
-This is the for our project on the Mental Health.
+This is for our project on the Mental Health in the DEXTERIX hackathon.
